@@ -44,4 +44,3 @@ while True:
     else:
         print("Opção Inválida!")
 
-# Minhas respostas são essas
